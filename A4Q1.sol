@@ -1,3 +1,5 @@
+//0xcc44E8e3f6eFF5B6428F71eAA93B314D1b5Ef4Ce//
+
 pragma solidity ^0.5.1;
 import 'Token.sol'; // import the ERC20 token contract from 'https://github.com/polynetwork/eth-contracts/blob/master/contracts/libs/token/ERC20/ERC20.sol'
 contract tokenSale
